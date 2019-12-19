@@ -1,0 +1,86 @@
+body {
+    background-color: #2F3035;
+    background-image: url(images/silhouette-of-grass-under-white-sky-92574003.jpg);
+    background-size: cover;
+}
+
+.topnav {background-color:rgba(0, 0, 0, 0);
+        overflow: hidden;
+        text-align: right;
+        padding-top: 14px;
+        padding-bottom: 14px;
+
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+
+header {
+    font-size: 30px;
+    background-color: black
+    height: 118px;
+    text-align: center;   
+}  
+
+main{
+    height: 400px; 
+    text-align: center; 
+    padding-top: 20px;  
+    
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.616);
+    height: 20px;
+    margin-top: 6%;
+    margin-bottom: 0px;
+    text-align: center;
+    width: 1280px;    
+}
+h1 {
+    color: black;
+    text-align: right;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    
+}
+h2 {
+    font-size: 30px;
+    color: black;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    text-align: right;
+    margin-right: 50px;   
+}
+a {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    /* text-decoration: none; */
+}
+img {
+    border-radius: 50%;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+}
+.topnav a {
+    text-decoration: none;
+    padding-right: 12px;
+    padding-left: 12px;
+
+}
+h3 {
+    font-size: 25px;
+    color: black;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    text-align: right;
+    margin-right: 160px;
+}
+footer p {
+    color: rgb(223, 219, 219);
+}
